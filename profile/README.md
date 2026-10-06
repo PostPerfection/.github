@@ -14,7 +14,7 @@ You can also [check a DCP in your browser](https://postperfection.github.io/dcpd
 
 ## For developers
 
-The apps are built in Rust on shared libraries: [postkit](https://github.com/PostPerfection/postkit) (encoding, packaging, QC building blocks), [asdcplib-rs](https://github.com/PostPerfection/asdcplib-rs) (safe Rust bindings for AS-DCP/AS-02 MXF), and [dci-ctp](https://github.com/PostPerfection/dci-ctp) (a DCI compliance test suite).
+The apps are built in Rust on shared libraries: [postkit](https://github.com/PostPerfection/postkit) (encoding, packaging, QC building blocks), [guikit](https://github.com/PostPerfection/guikit) (the desktop apps' shared preview player and panels), [asdcplib-rs](https://github.com/PostPerfection/asdcplib-rs) (safe Rust bindings for AS-DCP/AS-02 MXF), and [dci-ctp](https://github.com/PostPerfection/dci-ctp) (a DCI compliance test suite).
 
 ---
 
