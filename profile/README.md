@@ -10,7 +10,7 @@ Free, open-source DCP and IMF tools for cinema and streaming deliveries. No dong
 - **[DCP Doctor](https://postperfection.github.io/dcpdoctor/)**: check DCPs and IMF packages. Structure, hashes, subtitles, audio, HDR, encryption, and compatibility checks for Dolby, Barco, Christie, GDC, and IMAX servers. [Download](https://github.com/PostPerfection/dcpdoctor/releases/latest)
 - **[IMF Wizard](https://postperfection.github.io/imfwizard/)**: deliver to streamers. Netflix, Disney+, and HBO Max presets, Dolby Vision, HDR10+, Atmos, supplemental packages, IMF to DCP conversion. [Download](https://github.com/PostPerfection/imfwizard/releases/latest)
 - **[KDM Courier](https://postperfection.github.io/kdmcourier/)**: key your bookings. Cinemas from FLM files, every certificate chain checked before a KDM is written, one ZIP of KDMs per cinema written to a folder or emailed. [Download](https://github.com/PostPerfection/kdmcourier/releases/latest)
-- **[DCP Screen](https://postperfection.github.io/dcpscreen/)**: play DCPs and IMPs. A library of package folders, KDMs picked from a store, playlists, subtitles and closed captions, verification with DCP Doctor. No release yet, the source is [on GitHub](https://github.com/PostPerfection/dcpscreen).
+- **[DCP Screen](https://postperfection.github.io/dcpscreen/)**: play DCPs and IMPs. A library of package folders, KDMs picked from a store, playlists, subtitles and closed captions, verification with DCP Doctor. [Download](https://github.com/PostPerfection/dcpscreen/releases/latest)
 
 You can also [check a DCP in your browser](https://postperfection.github.io/dcpdoctor/validate/) without installing anything. Files are never uploaded.
 
